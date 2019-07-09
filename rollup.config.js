@@ -6,7 +6,6 @@ export default {
         file: 'dist/main.js',
         format: 'cjs'
     },
-    banner: '/* fed123.com */',
     plugins: [
         babel({
             "presets": [[
